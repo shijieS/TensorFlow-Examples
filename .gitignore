@@ -11,3 +11,5 @@ dist/*
 checkpoint
 htmlcov
 mnist
+tuturial-official/*.csv
+tuturial-official/MINIST*
